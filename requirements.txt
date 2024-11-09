@@ -1,0 +1,3 @@
+
+# Example of listing dependencies in a requirements file
+numpy==1.21.0
